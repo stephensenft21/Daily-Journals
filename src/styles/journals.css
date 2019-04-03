@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    border: 5px solid black;
+    padding: 10px;
+    }
+    .covered{
+        width: 300px;
+        font: bold;
+        border: 1px solid silver;
+        }
+        
+    
+    
+    
+    .journal-entry{
+         width: 400px;
+        height: 100px;
+        border: 2px solid silver
+     
+    }
+    .journal-entry2{
+        border: 1px solid silver;
+        
+    }
+    
+    .Mood{
+    
+        background-color: green;
+        border: 1px solid silver;
+        
+    }
+    
+    
