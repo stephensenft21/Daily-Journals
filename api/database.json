@@ -1,0 +1,48 @@
+{
+
+    "entries": [{
+            "date": "03-05-2019",
+            "concept": "Scope in Javascript",
+            "journal": "",
+            "mood": "Anxious ",
+            "id": 1
+        },
+        {
+            "date": "03-02-2019",
+            "concept": "random exercise",
+            "journal": "",
+            "mood": "stressed",
+            "id": 2
+        },
+
+        {
+            "date": "03-07-2019",
+            "concept": "Scope in Javascript",
+            "journal": "",
+            "mood": "Happy",
+            "id": 3
+        },
+        {
+            "date": "03-01-2019",
+            "concept": "learned About API",
+            "journal": "",
+            "mood": "Angry",
+            "id": 4
+        },
+
+        {
+            "date": "03-011-2019",
+            "concept": "learned About API and worked on scope exercises",
+            "journal": "",
+            "mood": "confused, slightly annoyed",
+            "id": 5
+        },
+        {
+            "date": "03-25-2019",
+            "concept": "worked on practice exercises and national parks application. added radio buttons and event listeners for edit buttons",
+            "journal": " I feel stupid today. why is this so hard",
+            "mood": "stressed out trying to learn these concepts",
+            "id": 6
+        }
+    ]
+}
